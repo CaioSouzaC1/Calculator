@@ -1,5 +1,4 @@
 function efetuarCalculo(tipo, valor) {
-    
     if (tipo === 'acao') {
         if (valor === 'clear') {
             document.getElementById('visor').value = '';
