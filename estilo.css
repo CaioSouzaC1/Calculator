@@ -1,0 +1,35 @@
+body {
+background-color:  #CCC;
+}
+.borda-calc {
+    margin-top: 40px;
+    border: solid 1px black;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px black;
+  }
+
+  .btn {
+    width: 60px;
+    height: 50px;
+    margin: 5px;
+    box-shadow: 1px 1px black;
+    border: 1px solid black;
+  }
+
+  .width130px {
+    width: 130px;
+  }
+
+  .enter {
+    height: 110px;
+  }
+
+  .resultado {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: solid 1px black;
+    box-shadow: 1px 1px 1px black;
+    
+  }
